@@ -33,7 +33,7 @@ fun forLoopFromHighToLow(){
     }
 }
 fun forLoopStep(){
-    println("==========For loop from 1 to 10 step 2 ie adding 2 subsequently after the first loop=========")
+    println("==========For loop from 1 to 10 step 2 ie adding 2 subsequently after the first iteration=========")
     for (myNum: Int in 1..10 step 2){
         println("$myNum")
     }
