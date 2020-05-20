@@ -1,4 +1,6 @@
+//Kotlin program entry point
 fun main() {
+    //Function calls
     printVariables()
     printParameterizedFunction(10, 10)
     greetings("Welcome to the World of Kotlin.")
