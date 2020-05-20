@@ -1,4 +1,4 @@
-//Kotlin entry point
+//Kotlin program entry point
 fun main() {
     //Function calls
     whileLoop()
