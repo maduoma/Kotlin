@@ -1,4 +1,6 @@
+//Kotlin program entry point
 fun main() {
+    //Function calls
     usingIfElse()
     usingWhen()
 }
