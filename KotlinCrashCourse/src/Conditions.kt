@@ -19,10 +19,10 @@ fun usingWhen(){
     println()
     println("==============When Demo================")
     println("Enter your score: ")
-    //Receives a number using readLine() and Not Null (!!) operator and converts same to Int
-    val myScore: Int = readLine()!!.toInt()
+    //Receives a number using readLine() and Not Null (!!) operator and converts same to Int and assign to myScore
+    //val myScore: Int = readLine()!!.toInt()
     //In Kotlin we have 'when' not 'switch' in other languages
-    when(myScore){
+    when(readLine()!!.toInt()){
         1 -> println("You got A.")
         2 -> println("You got B.")
         in 3..5 -> println("You got C.")
