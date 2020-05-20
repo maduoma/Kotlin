@@ -26,7 +26,7 @@ fun greetings(greet: String){
 }
 
 fun printSumFromInputConsole(){
-    println("==========Getting Input from Console and printing the sum===================")
+    println("==========Gets Input from Console and printing the sum===================")
     println("Enter your first number: ")
     //Receives the first input number using readLine() and not null (!!) operator and converts the String into Int
     val myNum1: Int = readLine()!!.toInt()
