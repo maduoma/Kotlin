@@ -6,6 +6,17 @@ class  Employee {
     constructor(){
         empBloodGroup = "O"
     }
+
+    /*
+        () {
+    var empName: String = ""
+    var empBloodGroup: String = ""
+
+    init {
+        empBloodGroup = "O"
+    }
+}
+     */
 }
 
 fun main() {
