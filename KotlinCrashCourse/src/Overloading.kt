@@ -18,8 +18,8 @@ class Summation {
 fun main() {
     // Object instantiation or creation
     val sum = Summation()
-    //Calls the 1st overloaded function
+    //Calls the 1st overloaded function of same name
     println("The summation from the first overloaded function is ${sum.sum(20, 30)}.")
-    //Calls the 2nd overloaded function
+    //Calls the 2nd overloaded function of same name
     println("The summation from the first overloaded function is ${sum.sum(20, 30, 50)}.")
 }
