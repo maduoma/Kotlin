@@ -1,5 +1,4 @@
-//Kotlin program entry point
-fun main() {
+fun main()  {//Kotlin program entry point
     //Function calls
     fixedArray()
     gettingArrayElementFromConsole()
