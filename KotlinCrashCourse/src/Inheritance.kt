@@ -2,7 +2,7 @@
 // to inherit a parent class by the child class, attach 'open' to the front of the parent class
 open class ABC {
     fun printFromParent() {
-        println("===========Parent Class=================")
+        println("===========Parent Class==================")
         println("Hello from parent class!")
     }
 }
