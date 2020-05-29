@@ -8,7 +8,7 @@ fun main() {
 }
 
 fun printVariables() {
-    println("==========None-Parameterized Function=============")
+    println("==========None-Parameterized Function==============")
     val myNum1 = 2
     val myNum2 = 2
     val sum: Int = myNum1 + myNum2
