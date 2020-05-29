@@ -1,7 +1,7 @@
 class Home {
     var myNum1: Int = 0
 
-    companion object {
+    companion object { //Companion object like static in Java
         var myNum2: Int = 0
     }
 }
