@@ -8,7 +8,7 @@ fun main() {
 }
 
 fun whileLoop() {
-    println("======================While Loop Demo===================================")
+    println("======================While Loop Demo====================================")
     println("Enter your number to test: ")
     //Receives the number in myNum using readLine() and Not Null (!!) operator and converts and assigns same to myNum before testing
     var myNum: Int = readLine()!!.toInt()
