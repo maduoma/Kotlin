@@ -4,7 +4,7 @@ class Summation {
     fun sum(num1: Int, num2: Int){
         // You can use '+' or plus
         val add: Int = num1.plus(num2)
-        println("=============The first overloaded===============")
+        println("=============The first overloaded================")
         println("The sum is $add.")
     }
 
