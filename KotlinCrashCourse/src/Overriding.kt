@@ -23,7 +23,7 @@ fun main() {
     abc2.display()
 
     // Child class
-    println("=============Child=========================")
+    println("=============Child==========================")
     val xyz2 = XYZ2()
     xyz2.display()
 }
