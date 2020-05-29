@@ -2,7 +2,7 @@ class  Employee {
     var empName: String = ""
     var empBloodGroup: String = ""
 
-    //Constructor to give initial or default value to the object when called or created
+    //Constructor to give initial or default value to the object when it's first created
     constructor(){
         empBloodGroup = "O"
     }
