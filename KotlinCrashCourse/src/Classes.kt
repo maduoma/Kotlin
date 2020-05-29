@@ -1,5 +1,4 @@
-//Class declaration
-class Student {
+class Student { //Class declaration
     // Creates and initialises class variables: name and score
     // leaving their variable type as var as the variables will be reassigned later in the code
     var studentName: String = ""
