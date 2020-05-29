@@ -12,7 +12,7 @@ fun fixedArray() {
     val myBloodGroup: Array<String> = arrayOf("A", "B", "O", "AB")
     //Using for loop to print the elements of the array
     for(bloodGroup: String in myBloodGroup){
-        println("Your Blood Group is $bloodGroup.")
+        println("Your Blood Group is either of $bloodGroup.")
     }
 }
 
