@@ -15,7 +15,7 @@ fun main(args: Array<String>) {
     // var name = value, there's no need to specify the type if you are initializing the variable with a value. It will be inferred automatically.
     val firstName: String = "Madu"
     // Use var if the variable is going to be changed later after it is initialized.
-    var weight = 100
+    val weight = 100
     println(weight)
 
     val instagramHandle: String? = null
@@ -29,7 +29,7 @@ fun main(args: Array<String>) {
         println(name)
     }
 
-    for (i in 1..10) {
+    for (i in 1..  10) {
         println(i)
     }
 
